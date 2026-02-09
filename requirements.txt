@@ -1,0 +1,2 @@
+# Requires: impossible-suspension
+# (Not available on PyPI)
